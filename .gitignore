@@ -1,1 +1,4 @@
 /node_modules
+/auth
+credentials.json
+authentication-res.json
